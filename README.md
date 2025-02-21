@@ -1,6 +1,6 @@
 # Big Nerd Ranch iOS Coding Challenge
  
-My indepth solution to this coding challenge. Original text below.
+My indepth solution to this coding challenge. Original text below. That was a very complex and involved test. My solution passed the technical interview. I don't recommend reusing it, however you may learn a few things along the way.
 
 Thanks for your interest in joining Big Nerd Ranch! This repository has a half-
 finished app in it. There are some bugs, there's missing functionality, and
